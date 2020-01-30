@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 逐帧动画头部 -->
+<animation-list
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/y1_1" android:duration="150"/>
+    <item android:drawable="@drawable/y1_2" android:duration="150"/>
+    <item android:drawable="@drawable/y1_3" android:duration="150"/>
+    <item android:drawable="@drawable/y1_4" android:duration="150"/>
+    <item android:drawable="@drawable/y1_5" android:duration="150"/>
+    <item android:drawable="@drawable/y1_6" android:duration="150"/>
+    <item android:drawable="@drawable/y1_7" android:duration="150"/>
+    <item android:drawable="@drawable/y1_8" android:duration="150"/>
+    <item android:drawable="@drawable/y1_9" android:duration="150"/>
+    <item android:drawable="@drawable/y1_10" android:duration="150"/>
+    <item android:drawable="@drawable/y1_11" android:duration="150"/>
+    <item android:drawable="@drawable/y1_12" android:duration="150"/>
+    <item android:drawable="@drawable/y1_13" android:duration="150"/>
+    <item android:drawable="@drawable/y1_14" android:duration="150"/>
+    <item android:drawable="@drawable/y1_15" android:duration="150"/>
+    <item android:drawable="@drawable/y1_16" android:duration="150"/>
+    <item android:drawable="@drawable/y1_17" android:duration="150"/>
+    <item android:drawable="@drawable/y1_18" android:duration="150"/>
+    <item android:drawable="@drawable/y1_19" android:duration="150"/>
+    <item android:drawable="@drawable/y1_20" android:duration="150"/>
+    <item android:drawable="@drawable/y1_21" android:duration="150"/>
+    <item android:drawable="@drawable/y1_22" android:duration="150"/>
+    <item android:drawable="@drawable/y1_23" android:duration="150"/>
+    <item android:drawable="@drawable/y1_24" android:duration="150"/>
+    <item android:drawable="@drawable/y1_25" android:duration="150"/>
+    <!-- 逐帧动画尾部 -->
+</animation-list>

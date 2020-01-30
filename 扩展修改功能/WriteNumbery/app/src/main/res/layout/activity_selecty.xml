@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--表格布局头部-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/a3bj"
+              android:orientation="vertical"
+              android:padding="20dp"
+              android:gravity="center"
+              tools:context="com.mingrisoft.writenumber.SelectActivity"
+              android:weightSum="1">
+
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="20dp"
+        android:onClick="OnAThree"
+        android:background="@drawable/a3_25"
+        android:id="@+id/imageButton"/>
+</LinearLayout>
+
